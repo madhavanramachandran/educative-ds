@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * Merge Two Sorted Arrays
  */
-public class Challenge2 {
+public class Challenge2_MergeSortedArrays {
 
    public static void main (String [] args) {
       final Scanner scanner = new Scanner(System.in);

@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * Remove Even Integers from Array
  */
-public class Challenge1 {
+public class Challenge1_RemoveEvenIntegers {
    public static void main(String[] args) {
       Scanner scanner = new Scanner(System.in);
       int arrayLength = scanner.nextInt();
